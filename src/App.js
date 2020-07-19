@@ -4,8 +4,11 @@ import Preview from './components/preview/preview';
 import './App.css';
 
 const initialMd = `# Greetings Earthlings! 
-## Welcome to my markdown previewer
-[freeCodeCamp](https://www.freecodecamp.org/)
+## This is a sub-heading...
+### And here's some other cool stuff:
+
+And if you want to get really crazy, even tables:
+
 Front End Libraries Projects
 - Random Quote Machine
 - Markdown Previewer
