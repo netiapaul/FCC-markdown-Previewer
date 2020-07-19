@@ -39,30 +39,30 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Greetings Earthlings! 
+## Welcome to my markdown previewer
+[freeCodeCamp](https://www.freecodecamp.org/)
+Front End Libraries Projects
+- Random Quote Machine
+- Markdown Previewer
+- Drum Machine
+- Javascript Calculator
+- Pomodoro Clock
+this is a **bold** text, an _emphasis_ , a _**combined emphasis**_ , and a ~~strikethrough~~
+Head 1 | Head 2 | Head 3
+------ |--------| ------
+item1 | item2 | item3
+item4 | item5 | item6
+item7 | item8 | item9
+> example of blockquote
+Inline \`code\`
+\`\`\`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+```diff
+// code block
+function sum (x, y) {
+  return x + y;
+}
+```
+\`\`\`
+![Random Animals](https://loremflickr.com/320/240)
